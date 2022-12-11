@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.8e7700fa.js",
+    "main.js": "/Portfolio/static/js/main.ea8a66f9.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ses.png": "/Portfolio/static/media/ses.96912df4e46152225eba.png",
-    "static/media/Nihad Mehmedovic CV.pdf": "/Portfolio/static/media/Nihad Mehmedovic CV.f382a3c570f70bace5b4.pdf",
+    "static/media/Nihad Mehmedovic CV.pdf": "/Portfolio/static/media/Nihad Mehmedovic CV.53e123663f62fc42e42e.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/evidencijaApp.jpg": "/Portfolio/static/media/evidencijaApp.ef569bc55c7dd9570734.jpg",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.8e7700fa.js.map": "/Portfolio/static/js/main.8e7700fa.js.map",
+    "main.ea8a66f9.js.map": "/Portfolio/static/js/main.ea8a66f9.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e558664.css",
-    "static/js/main.8e7700fa.js"
+    "static/js/main.ea8a66f9.js"
   ]
 }
